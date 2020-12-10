@@ -84,5 +84,6 @@ namespace jsincsharp
             return sum;
         }
     }
+    //dotnet new webapi -o name
+    //microsoft uses 5000 and 5001 rather than 8080 and 3000
 }
-//dotnet new webapi -o name
