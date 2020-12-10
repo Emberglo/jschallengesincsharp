@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.csprojAssemblyReference.cache
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.AssemblyInfo.cs
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.exe
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.deps.json
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.runtimeconfig.json
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.runtimeconfig.dev.json
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.dll
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\ref\jsincsharp.dll
+C:\source\codeworks\week10\jsincsharp\bin\Debug\net5.0\jsincsharp.pdb
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.dll
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\ref\jsincsharp.dll
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.pdb
+C:\source\codeworks\week10\jsincsharp\obj\Debug\net5.0\jsincsharp.genruntimeconfig.cache
